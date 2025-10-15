@@ -1,19 +1,6 @@
 # Hola mundo!
 
 
-Soy desarrolladora frontend y ando con ganas de aprender algo de backend, veremos qué tal sale. :muscle:
+Data Visualization Developer apasionada por transformar datos en experiencias interactivas y visuales claras. Especializada en frontend con Next.js, React y D3.js, combinando habilidades técnicas y sensibilidad estética gracias a mi formación artística. Me interesa crear soluciones funcionales y atractivas, y compartir conocimientos en workshops y charlas sobre desarrollo, visualización y accesibilidad. Si te interesa saber más sobre mi te invito a ver más por [acá](https://www.notion.so/Julieta-Garc-a-3da4f41b5e5d4c5cadf773a3c318257b)
 
-
-### Sobre mi
------
-
-Me enentusiasma tanto la lógica como el diseño, por eso decidí meterme en el mundo del desarrollo web. Al principio con muchas dudas y miedos, pero cada día me apasiona más lo que voy aprendiendo. :purple_heart:
-
-### Herramientas y lenguajes que manejo
------
-- React
-- Java Script
-- CSS
-- HTML
-- Wordpress (aunque nadie lo quiera) :see_no_evil:	
 
